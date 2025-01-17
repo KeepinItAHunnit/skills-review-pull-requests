@@ -1,4 +1,4 @@
-<header>
+<ethan.janvier.1>
 
 <!--
   <<< Author notes: Course header >>>
@@ -11,7 +11,7 @@
 
 _Collaborate and work together on GitHub._
 
-</header>
+<ethanjanvier20/header>
 
 <!--
   <<< Author notes: Step 1 >>>
